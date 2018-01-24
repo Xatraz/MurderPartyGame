@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Documenten\MurderPartyGame\MurderParty_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.654914 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.893238 ms
+Player_P2 (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 639.
+Total: 0.298271 ms (FindLiveObjects: 0.038321 ms CreateObjectMapping: 0.013827 ms MarkObjects: 0.233086 ms  DeleteObjects: 0.012641 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698864 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.758914 ms (FindLiveObjects: 0.046222 ms CreateObjectMapping: 0.020148 ms MarkObjects: 0.290370 ms  DeleteObjects: 0.401778 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: f8b4 -> priority: 1 
+  Thread -> id: b7e4 -> priority: 1 
+  Thread -> id: f560 -> priority: 1 
+  Thread -> id: f878 -> priority: 1 
